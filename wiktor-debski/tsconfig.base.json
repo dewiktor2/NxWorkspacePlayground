@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@wiktor-debski/header": ["libs/header/src/index.ts"]
+      "@wiktor-debski/header": ["libs/header/src/index.ts"],
+      "@wiktor-debski/shared-ui": ["libs/shared-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
