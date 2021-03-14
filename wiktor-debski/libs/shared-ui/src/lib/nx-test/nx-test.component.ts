@@ -9,7 +9,7 @@ export class NxTestComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(): void { 
   }
 
 }
